@@ -28,3 +28,13 @@ public class Overloading {
 	}
 	
 }
+
+/*
+Enter the length and breadth of rectangle
+3
+4
+Area of rectangle = 12
+Enter the radius of circle
+2
+Area of circle = 12.56
+*/
