@@ -23,3 +23,8 @@ class Child extends Parent{
 		System.out.println("This is child class");
 	}
 }
+/*
+This is parent class
+This is child class
+This is parent class
+*/
