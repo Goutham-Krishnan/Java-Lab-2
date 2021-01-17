@@ -26,3 +26,8 @@ public class Triangle {
 	}
 
 }
+
+/*
+Area: 6.0
+Perimeter: 12
+*/
