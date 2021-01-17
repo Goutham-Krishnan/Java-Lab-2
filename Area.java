@@ -24,3 +24,10 @@ public class Area {
 	}
 
 }
+
+/*
+Enter the length and breadth
+3
+4
+Area : 12
+*/
