@@ -87,5 +87,70 @@ class Queue{
 		for(int i=front;i<=rear;i++)
 			System.out.println("    "+Q[i]);
 	}
-	
 }
+
+/*
+Enter the SIZE of queue
+3
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+1
+Enter the element to be inserted
+3
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+1
+Enter the element to be inserted
+5
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+1
+Enter the element to be inserted
+4
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+1
+Queue OVERFLOW!!!!
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+3
+    3
+    5
+    4
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+2
+Element returned = 3
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+3
+    5
+    4
+	QUEUE
+1. Enter Element
+2. Delete Element
+3. Display Element
+4. Exit
+4
+*/
